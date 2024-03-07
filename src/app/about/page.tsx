@@ -26,6 +26,7 @@ export default function About() {
             flexDirection: "column",
             justifyContent: "center",
             alignItems: "center",
+            color: "blue",
           }}
         >
           <h4>About me</h4>
